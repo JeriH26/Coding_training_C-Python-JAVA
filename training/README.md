@@ -10,6 +10,7 @@ This folder contains a 7-day coding practice pack with 10 high-frequency intervi
 - `../src/main/java/training/practice/`: Java TODO templates (`P001` to `P010`) and `PracticeRunner`
 - `common_patterns.md`: Quick pattern notes
 - `progress_template.md`: Daily tracking template
+- `cpp/basics_10day/`: C++ basics training for syntax, STL, memory, RAII, smart pointers, and algorithms
 
 ## 7-Day Mapping
 
